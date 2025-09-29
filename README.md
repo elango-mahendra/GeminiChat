@@ -27,8 +27,8 @@ This repository contains a ChatGPT Clone, developed using **React** and **Vite**
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/chatgpt-clone.git
-   cd chatgpt-clone
+   git clone https://github.com/elango-mahendra/GeminiChat.git
+   cd GeminiChat
    ```
 
 2. Install dependencies:
@@ -113,7 +113,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ## Contact
 
 If you encounter any issues or have questions, feel free to contact:  
-📧 **lokeshvlw2004@gmail.com**
+📧 **elangomahendran2003@gmail.com**
 
 ---
 

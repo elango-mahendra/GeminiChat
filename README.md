@@ -16,13 +16,6 @@ This repository contains a ChatGPT Clone, developed using **React** and **Vite**
 
 ---
 
-## Demo
-
-![image](https://github.com/user-attachments/assets/7e3ab18d-f909-4bf8-9b87-91b759e3f1d9)
-
-
----
-
 ## Installation
 
 1. Clone the repository:
